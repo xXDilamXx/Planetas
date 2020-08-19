@@ -1,0 +1,17 @@
+body
+{
+    padding:40px;
+    margin: 0px ;
+    font-size: 24px;
+    font-family:  BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image:url(http://www.cashadvance6online.com/data/archive/img/1456287552.jpeg);
+    background-repeat:repeat;
+    color: white;
+}
+
+nav
+{
+    background-color: rgba(7, 4, 4, 0.144);
+    padding: 0px;
+    color:rgb(218, 84, 84);
+}
